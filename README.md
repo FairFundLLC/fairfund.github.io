@@ -1,19 +1,4 @@
 # fairfund.github.io
-terms-of-use.html                privacy-policy.html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy | FairFund LLC</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; color: #222; max-width: 900px; }
-        h1 { color: #0c4da2; }
-        h2 { color: #333; }
-        a { color: #0c4da2; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        footer { margin-top: 40px; font-size: 14px; color: #555; border-top: 1px solid #ddd; padding-top: 15px; }
-    </style>
 </head>
 <body>
 
